@@ -105,7 +105,7 @@ Uygulama frontend (React) ve backend (Node.js + Express + MySQL) olmak üzere ik
 
 ## Ekran Görüntüleri
 ### Ana Sayfa
-![Ana Sayfa](screenshots/home_page.png)
+![Ana Sayfa](https://raw.githubusercontent.com/tugceozcan0/limon-portakal/main/creenshots/home_page.png)
 ![Ana Sayfa](screenshots/home_page2.png)
 
 ### Giriş
