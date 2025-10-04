@@ -122,7 +122,7 @@ Uygulama frontend (React) ve backend (Node.js + Express + MySQL) olmak üzere ik
 ![Market](screenshots/market.png)
 
 ### Sepet
-![Sepet](screenshots/cart.png)
+![Sepet]((https://imgur.com/a/QpRkrRb))
 
 ## Katkıda Bulunma 
 1. Repoyu fork edin
