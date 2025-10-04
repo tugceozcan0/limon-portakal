@@ -47,35 +47,7 @@ npm run dev
 http://localhost:5173
 
 ## Proje Yapısı
-'''
-  limon-portakal/
-  ├── public/
-  │   ├── icons/
-  │   │   ├── lemon.png
-  │   │   └── orange.png
-  │   └── images/
-  │       ├── limon.jpg
-  │       ├── limon.webp
-  │       ├── portakal.jpg
-  │       └── portakal.webp
-  ├── src/
-  │   ├── components/
-  │   │   ├── Navbar.jsx
-  │   │   ├── Footer.jsx
-  │   │   ├── CartWidget.jsx
-  │   │   └── ...
-  │   ├── contexts/
-  │   │   └── UserContext.jsx
-  │   ├── pages/
-  │   │   ├── Home.jsx
-  │   │   ├── Quiz.jsx
-  │   │   ├── Products.jsx
-  │   │   └── ...
-  │   ├── App.jsx
-  │   └── main.jsx
-  ├── package.json
-  └── README.md
-'''
+Uygulama frontend (React) ve backend (Node.js + Express + MySQL) olmak üzere iki ana bölümden oluşur.
 
 ## Özellikler
 ### Quiz Sistemi
