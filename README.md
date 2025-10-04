@@ -105,24 +105,24 @@ Uygulama frontend (React) ve backend (Node.js + Express + MySQL) olmak üzere ik
 
 ## Ekran Görüntüleri
 ### Ana Sayfa
-![Ana Sayfa](public/images/screenshots/home_page.png)
-![Ana Sayfa](public/images/screenshots/home_page2.png)
+![Ana Sayfa](screenshots/home_page.png)
+![Ana Sayfa](screenshots/home_page2.png)
 
 ### Giriş
-![Giriş](public/images/screenshots/login.png)
+![Giriş](screenshots/login.png)
 
 ### Kaydol
-![Kayıt](public/images/screenshots/register.png)
+![Kayıt](screenshots/register.png)
 
 ### Quiz
-![Quiz](public/images/screenshots/quiz.png)
-![Quiz](public/images/screenshots/quiz2.png)
+![Quiz](screenshots/quiz.png)
+![Quiz](screenshots/quiz2.png)
 
 ### Market
-![Market](public/images/screenshots/market.png)
+![Market](screenshots/market.png)
 
 ### Sepet
-![Sepet](public/images/screenshots/cart.png)
+![Sepet](screenshots/cart.png)
 
 ## Katkıda Bulunma 
 1. Repoyu fork edin
