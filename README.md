@@ -104,7 +104,26 @@ Uygulama frontend (React) ve backend (Node.js + Express + MySQL) olmak üzere ik
 | `POST`       | `/api/products/buy`         | Sepetteki ürünü/ürünleri puan karşılığında satın alır. | Giriş Gerekli   |
 
 ## Ekran Görüntüleri
-## 📸 Ekran Görüntüleri
+## Ekran Görüntüleri
+### Anasayfa
+![Ana Sayfa](frontend/public/images/screenshots/home_page.png)
+![Ana Sayfa](frontend/public/images/screenshots/home_page2.png)
+
+### Kaydol
+![Kaydol](frontend/public/images/screenshots/register.png)
+
+### Giriş Yap
+![Giriş Yap](frontend/public/images/screenshots/login.png)
+
+### Quiz
+![Quiz](frontend/public/images/screenshots/quiz.png)
+![Quiz](frontend/public/images/screenshots/quiz2.png)
+
+### Market
+![Market](frontend/public/images/screenshots/market.png)
+
+### Sepet
+![Sepet](frontend/public/images/screenshots/cart.png)
 
 > **Not:** Proje ekran görüntüleri için lütfen `/frontend/public/images/screenshots/` klasörünü kontrol edin veya uygulamayı yerel olarak çalıştırın.
 
