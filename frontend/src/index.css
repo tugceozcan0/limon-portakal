@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply font-patrickHand;
+  @apply bg-gradient-to-br from-blue-50 via-orange-50 to-yellow-50;
+}
