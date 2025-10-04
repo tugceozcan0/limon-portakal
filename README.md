@@ -104,25 +104,15 @@ Uygulama frontend (React) ve backend (Node.js + Express + MySQL) olmak üzere ik
 | `POST`       | `/api/products/buy`         | Sepetteki ürünü/ürünleri puan karşılığında satın alır. | Giriş Gerekli   |
 
 ## Ekran Görüntüleri
-### Ana Sayfa
-![Ana Sayfa](https://raw.githubusercontent.com/tugceozcan0/limon-portakal/main/creenshots/home_page.png)
-![Ana Sayfa](screenshots/home_page2.png)
+## 📸 Ekran Görüntüleri
 
-### Giriş
-![Giriş](screenshots/login.png)
+> **Not:** Proje ekran görüntüleri için lütfen `/frontend/public/images/screenshots/` klasörünü kontrol edin veya uygulamayı yerel olarak çalıştırın.
 
-### Kaydol
-![Kayıt](screenshots/register.png)
-
-### Quiz
-![Quiz](screenshots/quiz.png)
-![Quiz](screenshots/quiz2.png)
-
-### Market
-![Market](screenshots/market.png)
-
-### Sepet
-![Sepet](..\limon-ve-portakal\screenshots\cart.png)
+### Özellikler
+- Ana sayfa tasarımı
+- Quiz çözme ekranı  
+- Sanal market ve sepet sistemi
+- Responsive mobil tasarım
 
 ## Katkıda Bulunma 
 1. Repoyu fork edin
