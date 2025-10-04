@@ -125,8 +125,6 @@ Uygulama frontend (React) ve backend (Node.js + Express + MySQL) olmak üzere ik
 ### Sepet
 ![Sepet](frontend/public/images/screenshots/cart.png)
 
-> **Not:** Proje ekran görüntüleri için lütfen `/frontend/public/images/screenshots/` klasörünü kontrol edin veya uygulamayı yerel olarak çalıştırın.
-
 ### Özellikler
 - Ana sayfa tasarımı
 - Quiz çözme ekranı  
