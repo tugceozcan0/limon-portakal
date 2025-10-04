@@ -47,33 +47,35 @@ npm run dev
 http://localhost:5173
 
 ## Proje Yapısı
-limon-portakal/
-├── public/
-│   ├── icons/
-│   │   ├── lemon.png
-│   │   └── orange.png
-│   └── images/
-│       ├── limon.jpg
-│       ├── limon.webp
-│       ├── portakal.jpg
-│       └── portakal.webp
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Footer.jsx
-│   │   ├── CartWidget.jsx
-│   │   └── ...
-│   ├── contexts/
-│   │   └── UserContext.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Quiz.jsx
-│   │   ├── Products.jsx
-│   │   └── ...
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-└── README.md
+'''
+  limon-portakal/
+  ├── public/
+  │   ├── icons/
+  │   │   ├── lemon.png
+  │   │   └── orange.png
+  │   └── images/
+  │       ├── limon.jpg
+  │       ├── limon.webp
+  │       ├── portakal.jpg
+  │       └── portakal.webp
+  ├── src/
+  │   ├── components/
+  │   │   ├── Navbar.jsx
+  │   │   ├── Footer.jsx
+  │   │   ├── CartWidget.jsx
+  │   │   └── ...
+  │   ├── contexts/
+  │   │   └── UserContext.jsx
+  │   ├── pages/
+  │   │   ├── Home.jsx
+  │   │   ├── Quiz.jsx
+  │   │   ├── Products.jsx
+  │   │   └── ...
+  │   ├── App.jsx
+  │   └── main.jsx
+  ├── package.json
+  └── README.md
+'''
 
 ## Özellikler
 ### Quiz Sistemi
